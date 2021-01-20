@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Informatyka/Politechnika Poznanska/sem3(I8.2)/PO/Projects/GameColony(C++)/main.cpp
+iostream
+-
+

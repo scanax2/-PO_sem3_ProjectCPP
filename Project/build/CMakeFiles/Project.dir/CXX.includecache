@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Informatyka/Politechnika Poznanska/sem3(I8.2)/PO/Projects/GameColony(C++)/Project/Cargo.cpp
+Cargo.h
+D:/Informatyka/Politechnika Poznanska/sem3(I8.2)/PO/Projects/GameColony(C++)/Project/Cargo.h
+
+D:/Informatyka/Politechnika Poznanska/sem3(I8.2)/PO/Projects/GameColony(C++)/Project/Cargo.h
+Spacecraft.h
+D:/Informatyka/Politechnika Poznanska/sem3(I8.2)/PO/Projects/GameColony(C++)/Project/Spacecraft.h
+
+D:/Informatyka/Politechnika Poznanska/sem3(I8.2)/PO/Projects/GameColony(C++)/Project/Cell.cpp
+Cell.h
+D:/Informatyka/Politechnika Poznanska/sem3(I8.2)/PO/Projects/GameColony(C++)/Project/Cell.h
+
+D:/Informatyka/Politechnika Poznanska/sem3(I8.2)/PO/Projects/GameColony(C++)/Project/Cell.h
+iostream
+-
+
+D:/Informatyka/Politechnika Poznanska/sem3(I8.2)/PO/Projects/GameColony(C++)/Project/Colony.cpp
+Colony.h
+D:/Informatyka/Politechnika Poznanska/sem3(I8.2)/PO/Projects/GameColony(C++)/Project/Colony.h
+
+D:/Informatyka/Politechnika Poznanska/sem3(I8.2)/PO/Projects/GameColony(C++)/Project/Colony.h
+iostream
+-
+cmath
+-
+string
+-
+
+D:/Informatyka/Politechnika Poznanska/sem3(I8.2)/PO/Projects/GameColony(C++)/Project/Missile.cpp
+Missile.h
+D:/Informatyka/Politechnika Poznanska/sem3(I8.2)/PO/Projects/GameColony(C++)/Project/Missile.h
+
+D:/Informatyka/Politechnika Poznanska/sem3(I8.2)/PO/Projects/GameColony(C++)/Project/Missile.h
+Spacecraft.h
+D:/Informatyka/Politechnika Poznanska/sem3(I8.2)/PO/Projects/GameColony(C++)/Project/Spacecraft.h
+
+D:/Informatyka/Politechnika Poznanska/sem3(I8.2)/PO/Projects/GameColony(C++)/Project/Passenger.cpp
+Passenger.h
+D:/Informatyka/Politechnika Poznanska/sem3(I8.2)/PO/Projects/GameColony(C++)/Project/Passenger.h
+
+D:/Informatyka/Politechnika Poznanska/sem3(I8.2)/PO/Projects/GameColony(C++)/Project/Passenger.h
+Spacecraft.h
+D:/Informatyka/Politechnika Poznanska/sem3(I8.2)/PO/Projects/GameColony(C++)/Project/Spacecraft.h
+
+D:/Informatyka/Politechnika Poznanska/sem3(I8.2)/PO/Projects/GameColony(C++)/Project/Spacecraft.h
+Cell.h
+D:/Informatyka/Politechnika Poznanska/sem3(I8.2)/PO/Projects/GameColony(C++)/Project/Cell.h
+Colony.h
+D:/Informatyka/Politechnika Poznanska/sem3(I8.2)/PO/Projects/GameColony(C++)/Project/Colony.h
+
